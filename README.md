@@ -1,4 +1,4 @@
 # test
 a test repository for class
-# change number 1
-# another change
+# Change number 1
+# Another change
